@@ -1,0 +1,2 @@
+SELECT `short_url`.`id`, `short_url`.`url` FROM `short_url` WHERE url=? LIMIT 1
+[blog.cyeam.com]

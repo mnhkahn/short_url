@@ -1,0 +1,7 @@
+appname = short_url
+httpport = 8726
+runmode = prod
+
+db.url = 
+default.domain = a.cyeam.com/
+default.no = Can't find the address!
