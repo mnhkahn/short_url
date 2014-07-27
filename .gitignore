@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+conf/app.conf.bak
+sql.log
+short_url
