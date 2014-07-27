@@ -53,7 +53,6 @@
 									<a href="{{.ShortUrl}}" target="_blank">{{.ShortUrl}}</a>
 								</div>
 								<p>
-									<a style="word-break:break-all; " target="view_window" href="{{.ShortUrl}}">{{.ShortUrl}}</a>
 									<a href="{{.LongUrl}}" target="_blank" style="word-wrap:break-word; word-break:break-all">{{.LongUrl}}</a>
 								</p>
 								<p>
