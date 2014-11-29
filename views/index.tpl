@@ -18,7 +18,7 @@
 							<div class="row clearfix">
 								<div class="col-md-12 column">
 									<a href="http://blog.cyeam.com" class="thumbnail">
-										<img src="http://cyeam.qiniudn.com/qrcode_for_gh_aa23c6563b3d_258.jpg" alt="Cyeam">
+										<img src="http://api.cyeam.com/qr?url={{.ShortUrl}}" alt="Cyeam">
 									</a>
 								</div>
 							</div>
